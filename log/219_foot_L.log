@@ -1,0 +1,10 @@
+[INFO] 样本: 219_foot_L.stl
+[INFO] 对齐: False; 脚底裁剪(mm): 10.0
+[INFO] 全局 shift=[-28.794806604800016, -62.85194651285808, -22.985886793870193], scale=0.003965769379945015
+[INFO] 开始处理: 219_foot_L.stl
+[INFO] 加载足模: data\raw\feet\219_foot_L.stl
+[INFO] 裁剪高度: 10.0 mm，自 minZ=-26.8326 起
+[INFO] 顶点: 75658 -> 506 (删除 75152)
+[INFO] 三角形: 25230 -> 710 (删除 24520)
+[INFO] 已保存足模(归一化): data\normalize\feet\219_foot_L.stl
+[INFO] 已保存 meta: data\normalize\meta\219_foot_L.json

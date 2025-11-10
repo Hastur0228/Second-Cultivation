@@ -1,0 +1,10 @@
+[INFO] 样本: 244_foot_L.stl
+[INFO] 对齐: False; 脚底裁剪(mm): 10.0
+[INFO] 全局 shift=[-28.794806604800016, -62.85194651285808, -22.985886793870193], scale=0.003965769379945015
+[INFO] 开始处理: 244_foot_L.stl
+[INFO] 加载足模: data\raw\feet\244_foot_L.stl
+[INFO] 裁剪高度: 10.0 mm，自 minZ=-16.7264 起
+[INFO] 顶点: 71464 -> 1823 (删除 69641)
+[INFO] 三角形: 23834 -> 2643 (删除 21191)
+[INFO] 已保存足模(归一化): data\normalize\feet\244_foot_L.stl
+[INFO] 已保存 meta: data\normalize\meta\244_foot_L.json

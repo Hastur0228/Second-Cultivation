@@ -1,0 +1,8 @@
+[WARN] 缺少鞋垫 (prefix/side=('129', 'L')), 跳过: 129_foot_L.stl
+[WARN] 缺少鞋垫 (prefix/side=('129', 'R')), 跳过: 129_foot_R.stl
+[WARN] 缺少鞋垫 (prefix/side=('144', 'L')), 跳过: 144_foot_L.stl
+[WARN] 缺少鞋垫 (prefix/side=('144', 'R')), 跳过: 144_foot_R.stl
+[WARN] 缺少鞋垫 (prefix/side=('253', 'L')), 跳过: 253_foot_L.stl
+[WARN] 缺少鞋垫 (prefix/side=('305', 'R')), 跳过: 305_foot_R.stl
+[INFO] 有效样本对: 682
+[INFO] 划分完成: train=545, val=68, test=69

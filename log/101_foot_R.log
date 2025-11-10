@@ -1,0 +1,10 @@
+[INFO] 样本: 101_foot_R.stl
+[INFO] 对齐: False; 脚底裁剪(mm): 10.0
+[INFO] 全局 shift=[-28.794806604800016, -62.85194651285808, -22.985886793870193], scale=0.003965769379945015
+[INFO] 开始处理: 101_foot_R.stl
+[INFO] 加载足模: data\raw\feet\101_foot_R.stl
+[INFO] 裁剪高度: 10.0 mm，自 minZ=-18.7648 起
+[INFO] 顶点: 74931 -> 1099 (删除 73832)
+[INFO] 三角形: 24983 -> 1652 (删除 23331)
+[INFO] 已保存足模(归一化): data\normalize\feet\101_foot_R.stl
+[INFO] 已保存 meta: data\normalize\meta\101_foot_R.json
